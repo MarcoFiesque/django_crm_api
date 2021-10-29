@@ -83,6 +83,7 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+env_vue_django_crm/
 
 # mkdocs documentation 
 /site 
